@@ -1,0 +1,2 @@
+# primer-repositori
+Literalment tutorial
